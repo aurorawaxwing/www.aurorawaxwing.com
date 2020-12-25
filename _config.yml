@@ -1,0 +1,12 @@
+# Site settings
+
+title: Aurora Waxwing's Website
+email: aurorasbookcontact@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site
+url: "https://aurorawaxwing.com" # the base hostname & protocol for your site
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
