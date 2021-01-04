@@ -6,5 +6,5 @@ categories: daily
 tags: my-website working-on-website
 ---
 Words
-{% youtube "https://www.youtube.com/watch?v=dSEUZ13Fi2o" %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dSEUZ13Fi2o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 more
