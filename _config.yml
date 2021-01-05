@@ -1,4 +1,4 @@
-# Site settings
+# Site settings 
 
 title: Aurora Waxwing's Website
 email: aurorasbookcontact@gmail.com
@@ -10,4 +10,3 @@ url: "https://aurorawaxwing.com" # the base hostname & protocol for your site
 theme: minima
 plugins:
   - jekyll-feed
-  
