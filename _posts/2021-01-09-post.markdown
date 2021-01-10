@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "A Better Day Today."
+date:   2021-01-09 22:35:00 -0800
+categories: daily
+tags:
+---
+
+Today was far more relaxing than the passed few. I was cleaning for most of the day and happy to voice call some friends. I hope to talk more tomorrow. It was good talk about she-ra over current events. I will have a bit of homework tomorrow for Ethics 101 and Material Balance. I want to do more work learning Python.   
