@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "beep"
+date:   2021-01-11 23:59:59 -0800
+categories: daily
+tags:
+---
+
+I missed writing something for the 10th and almost missed today.
